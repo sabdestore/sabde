@@ -49,7 +49,7 @@ external: $2
 
 method: pam
 
-user.privileged: sabdetore
+user.privileged: ubuntu
 user.notprivileged: nobody
 
 client pass {
@@ -81,7 +81,7 @@ external: $2
 
 socksmethod: pam.any
 
-user.privileged: sabdestore
+user.privileged: ubuntu
 user.notprivileged: nobody
 
 client pass {
